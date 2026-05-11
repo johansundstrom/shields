@@ -1,4 +1,7 @@
 # Shields
+
+![Static Badge](https://img.shields.io/badge/Status-Finished-brightgreen)
+
 Mina noteringar om användandet av Shields på Github
 
 ## Upptäckten av Shields för Github gjorde mig glad. Här för jag vidare mina upptäkter genom mina minnesanteckningar.
@@ -11,9 +14,9 @@ Mina noteringar om användandet av Shields på Github
 
 ### Statisk badge
 
-![Static Badge](https://img.shields.io/badge/Status-Finshed-brightgreen)
+![Static Badge](https://img.shields.io/badge/Status-80%25-yellow)
 
-```![Static Badge](https://img.shields.io/badge/Status-Finshed-brightgreen)```
+```![Static Badge](https://img.shields.io/badge/Status-80%25-yellow)```
 
 ### Dynamisk badge
 
