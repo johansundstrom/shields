@@ -1,7 +1,7 @@
 # Shields
 Mina noteringar om användandet av Shields på Github
 
-## Upptäckten av Shields för Github gjorde mig glad. Här för jag vidare mina upptäkter genom mina minneanteckningar.
+## Upptäckten av Shields för Github gjorde mig glad. Här för jag vidare mina upptäkter genom mina minnesanteckningar.
 
 * Shields ger möjlighet att markera repository med en *badge*
 * Shields kan väljas att vara dynamiska, t.ex. visa senaste commit
