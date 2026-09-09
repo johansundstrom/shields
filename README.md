@@ -24,6 +24,9 @@ Mina noteringar om användandet av Shields på Github
 
 ```![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Badges/Squint)```
 
+![Gitea Last Commit (branch)](https://img.shields.io/gitea/last-commit/johansundstrom/johansundstrom%2Fshields/master)
+
+
 ## Detaljer
 
 På ```[shields.io](https://shields.io/badges)``` hittas detaljer om utformning
